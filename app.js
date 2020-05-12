@@ -40,7 +40,8 @@ let skills = [
     }, {
         type: 'Leadership',
         isCool: false,
-    }];
+    }
+];
 
 console.log('Name: ' + name.toUpperCase());
 console.log('Career: ' + career);
